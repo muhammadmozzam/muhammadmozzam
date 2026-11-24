@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Muhammad Mozzam 👋
 
-<!--
-**who-is-mozzam/who-is-mozzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Manager at **Mozesto Solutions** (Sialkot, Pakistan) · BS Computer Science, University of Gujrat (2023)
 
-Here are some ideas to get you started:
+🔬 **Research interests:** Computer Vision · Image & Video Analysis · Deep Learning · Medical Image Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tools:** Python · Deep Learning (CNNs) · Git
+
+📂 **Projects:** Lung & liver cancer detection with CNNs *(coming soon)*
+
+🎓 **Currently:** applying for a research master's in computer vision
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-mozzam-40a35b358/) · [ORCID](https://orcid.org/0009-0008-1075-8778)
